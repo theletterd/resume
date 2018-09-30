@@ -1,8 +1,11 @@
 # (Christopher) Duncan Cook
 
 Email: duncan.cook@theletterd.co.uk
+
 Pronouns: He/Him
+
 Education: MEng Computer Science - 09/2001 - 06/2007, University College London, UK
+
 US Green-card holder
 
 # Experience & Selected Projects
