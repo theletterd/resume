@@ -20,10 +20,8 @@
 
 ### Tech Lead, Yelp Reservations (March 2016 - July 2017)
 
--   Refactored the code which indexed restaurant availability into vertical search such that it was documented (!), readable, maintainable, extendable, and more efficient.
-  
+-   Refactored the code which indexed restaurant availability into vertical search such that it was documented (!), readable, maintainable, extendable, and more efficient.  
     -   This was my favourite ever project. It involved having to deeply understand the availability algorithm separate from the code, understand the existing implementation and its flaws, rewrite it in-full, and be 100% certain that it worked, given that any errors would affect the ability of users to book reservations.
-    
 
 -   Front-end reservation_pages service  
     -   Supported project leads in the creation of one of the first front-end services at Yelp.
