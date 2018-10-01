@@ -78,7 +78,7 @@
 ## Public Speaking
 
 -   Gave a talk on Cockney Rhyming Slang, and The History of the English Language.
--   Presented technical talks at college recruiting events.    
+-   Presented technical talks at college recruiting events.
 -   Gave talks to multiple teams at Yelp about Code Review processes and guidelines
 -   [Presented a talk at the 2018 YTH conference on Yelp’s work to enable people to find Gender-Neutral bathrooms](http://yth.org/ythlive/live-2018/sessions-2018/).
     
