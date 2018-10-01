@@ -1,0 +1,3 @@
+sudo apt-get install pandoc context
+
+pandoc ~/programming/resume/readme.md -t context --template template.tex -o resume.pdf
