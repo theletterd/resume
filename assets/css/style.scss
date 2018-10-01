@@ -3,6 +3,18 @@
 
 @import "{{ site.theme }}";
 
-header {display: none;}
-footer {display: none;}
-section {width: inherit;}
+.wrapper {
+    width: 100%;
+}
+
+header {
+    display: none;
+}
+
+footer {
+    display: none;
+}
+
+section {
+    width: 80%;
+}
