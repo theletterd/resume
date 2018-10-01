@@ -98,7 +98,7 @@
 ## Culture
 
 -   Introduced and organised [Secret Santa](https://i.imgur.com/smeqn5s.jpg) for all of the SF-based Engineers each year
-    -   Grew from ~30 in 2011, to ~130 in 2017.
+    -   Grew from ~30 participants in 2011, to ~130 in 2017.
     -   Initial allocation algorithm was just randomness, which wasn’t optimal.
     -   Further refinements of the algorithm included me gathering more info from participants through a Google Survey, and then doing very manual matching based on that information, and what I knew personally about participants.
 -   Organised team-offsites, including Archery, Croquet, and Woodworking.
