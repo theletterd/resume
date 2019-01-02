@@ -9,7 +9,11 @@
 
 ## Yelp (Dec 2009 to Present)
 
-### Engineering Manager, Food Order Discovery (July 2017 - Present)
+### Engineering Manager, Yelp Nowait (Dec 2018 - Present)
+
+- Managed a team of of ~10 engineers, 5 of whom are remote.
+
+### Engineering Manager, Food Order Discovery (July 2017 - Dec 2018)
 
 -   Managed a cross-platform team of 8-12 engineers (iOS, Android, Backend, Search).
 -   Oversaw creation of the Delivery Tab on Yelp’s mobile clients, which aimed to be the home of Delivery. Project was a cross-discipline, cross-team project involving iOS, Android, Search and Backend engineers on my team, as well as coordination with engineers on the Search team. We later built a backend service to support the Delivery Tab, allowing us to run experiments quickly, and without the need to push client code.
