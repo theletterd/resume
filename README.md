@@ -15,3 +15,6 @@ $ sudo apt-get install pandoc context
 $ make initialise_environment
 
 $ RESUME_SERVER=theletterd@place-where-I-host-shit make build_resume
+
+## Resume
+Resume is available at [https://resume.theletterd.co.uk](https://resume.theletterd.co.uk) - I'm not looking though :) <3
