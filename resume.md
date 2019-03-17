@@ -16,7 +16,7 @@
 ### Engineering Manager, Food Order Discovery (July 2017 - Dec 2018)
 
 -   Managed a cross-platform team of 8-12 engineers (iOS, Android, Backend, Search).
--   Oversaw creation of the Delivery Tab on Yelp’s mobile clients, which aimed to be the home of Delivery. Project was a cross-discipline, cross-team project involving iOS, Android, Search and Backend engineers on my team, as well as coordination with engineers on the Search team. We later built a backend service to support the Delivery Tab, allowing us to run experiments quickly, and without the need to push client code.
+-   Oversaw creation of the Delivery Tab on Yelp's mobile clients, which aimed to be the home of Delivery. Project was a cross-discipline, cross-team project involving iOS, Android, Search and Backend engineers on my team, as well as coordination with engineers on the Search team. We later built a backend service to support the Delivery Tab, allowing us to run experiments quickly, and without the need to push client code.
 -   Led brainstormings with the team to understand how we might improve search relevance, and planned out which features to explore as a priority. Increased monthly orders from search by 3%.
 -   Updated team processes to be more agile and flexible by adding a SCRUM-like process, involving daily-standups, sprint Kick-offs/demos, retrospectives and brainstormings.
 -   Held weekly 1:1s with all reports, including coaching and performance-management conversations.
@@ -37,12 +37,12 @@
 -   Led the Yelp-Reservations side of a cross-company drive to implement Vertical Search, allowing users to book reservations and order food directly on Yelp.com
     -   Wrote the system that pushed availability in real-time to Elasticsearch instances across multiple datacenters in 10s of milliseconds.
     -   Wrote Elasticsearch queries and defined an API that allowed Yelp code to query for restaurant availability.
-    -   Updated search code that that queried for availability and integrated the results with Yelp’s search results.
+    -   Updated search code that that queried for availability and integrated the results with Yelp's search results.
     -   This was a huge project, coordinating with multiple teams, using unfamiliar technologies and code-bases, and having to operate with strict performance constraints. Was a lot of fun.
       
 
 -   Built a system which allowed users of biz.yelp.com to login to Seatme.com with a single click.
-    -   This was a fun project that allowed me to learn a ton, and help integrate Seatme with Yelp. It involved coordinating with the network-engineering team to put specific datacenter connections in place allowing Yelp’s and Seatme’s codebases to communicate, building out the library to allow Seatme to call into Yelp’s various internal APIs, calling into authentication systems, and implementing appropriate strategies to govern cookie expiration across domains.
+    -   This was a fun project that allowed me to learn a ton, and help integrate Seatme with Yelp. It involved coordinating with the network-engineering team to put specific datacenter connections in place allowing Yelp's and Seatme's codebases to communicate, building out the library to allow Seatme to call into Yelp's various internal APIs, calling into authentication systems, and implementing appropriate strategies to govern cookie expiration across domains.
     
 
 ### Tech Lead, Community (July 2011 - Jan 2014)
@@ -71,7 +71,7 @@
 
 ## Rapt (acquired by Microsoft) July 2008 - May 2009
 
--   Full-stack engineer doing things I don’t quite remember anymore in Java and Ruby on Rails.
+-   Full-stack engineer doing things I don't quite remember anymore in Java and Ruby on Rails.
 -   Some amount of writing automated tests using the Watir framework.
     
 
@@ -84,7 +84,7 @@
 -   Gave a talk on Cockney Rhyming Slang, and The History of the English Language.
 -   Presented technical talks at college recruiting events.
 -   Gave talks to multiple teams at Yelp about Code Review processes and guidelines
--   [Presented a talk at the 2018 YTH conference on Yelp’s work to enable people to find Gender-Neutral bathrooms](http://yth.org/ythlive/live-2018/sessions-2018/).
+-   [Presented a talk at the 2018 YTH conference on Yelp's work to enable people to find Gender-Neutral bathrooms](http://yth.org/ythlive/live-2018/sessions-2018/).
     
 
   
@@ -101,25 +101,25 @@
 
 ## Culture
 
--   Introduced and organised [Secret Santa](https://i.imgur.com/smeqn5s.jpg) for all of the SF-based Engineers each year
+-   Introduced and organised [Secret Santa](https://resume.theletterd.co.uk/assets/images/secret_santa.jpg) for all of the SF-based Engineers each year
     -   Grew from ~30 participants in 2011, to ~130 in 2017.
-    -   Initial allocation algorithm was just randomness, which wasn’t optimal.
+    -   Initial allocation algorithm was just randomness, which wasn't optimal.
     -   Further refinements of the algorithm included me gathering more info from participants through a Google Survey, and then doing very manual matching based on that information, and what I knew personally about participants.
 -   Organised team-offsites, including Archery, Croquet, and Woodworking.
 -   Won trophies at four Yelp Hackathons:
-    -   Analysis of User Operations flows to enable higher [throughput](https://i.imgur.com/OUy2Wv0.jpg).
-    -   Was [sole-member](https://i.imgur.com/2ctK6rG.jpg) of the makeup-department for a K-Pop music video
+    -   Analysis of User Operations flows to enable higher [throughput](https://resume.theletterd.co.uk/assets/images/first_hackathon.jpg).
+    -   Was [sole-member](https://resume.theletterd.co.uk/assets/images/makeup.jpg) of the makeup-department for a K-Pop music video
     -   Dumbstack - Post a message to Twitter in as complex a way as possible, using multiple web-services, IRC, Slack, github post-commit hooks, and more!
     -   [SuDuncu](https://www.youtube.com/watch?v=XmDD-rQx3uE) - Designed a system which would recognise Sudoku grids, and solve them in real-time. Using OpenCV to detect the grids, sklearn/SVMs to classify digits, and a from-scratch python service to solve the grid.
--   Spent two days during a Yelp Hackathon teaching basic lock-picking skills to [interested engineers](https://i.imgur.com/A9rsEDP.jpg), a skill I picked up while recovering from surgery, because there’s not much else to do when you can’t really move.
--   Twice mentored for [AWE](https://www.yelp.com/engineering/awe) (Awesome Women in Engineering, Yelp’s ERG for Women in Engineering).
+-   Spent two days during a Yelp Hackathon teaching basic lock-picking skills to [interested engineers](https://resume.theletterd.co.uk/assets/images/lock_picking.jpg), a skill I picked up while recovering from surgery, because there's not much else to do when you can't really move.
+-   Twice mentored for [AWE](https://www.yelp.com/engineering/awe) (Awesome Women in Engineering, Yelp's ERG for Women in Engineering).
 -   I will always dress up for Halloween. Always.
--   Deeply honoured to have been voted by Engineering as most representative of the Yelp Value [“Unboring”](https://i.imgur.com/RRSt0m1.jpg) in 2016.
+-   Deeply honoured to have been voted by Engineering as most representative of the Yelp Value ["Unboring"](https://resume.theletterd.co.uk/assets/images/unboring.jpg) in 2016.
     
 
 ## Other
 
--   Originally from the UK, but my accent has changed slightly from living in the US for 11 years. I’m told I sound slightly Australian.
+-   Originally from the UK, but my accent has changed slightly from living in the US for 11 years. I'm told I sound slightly Australian.
 -   Owner of at least 20 pairs of Converse, but am unashamedly transitioning to Birkenstocks.
 -   Occasional blogger on gender-nonconforming issues, and occasionally presents as female.
 -   Attempting to be somewhat-successful at being a runner.
@@ -131,4 +131,7 @@
 -   Python, Java, MySQL, Javascript, (S)CSS
     
 
-(I’ve poked at a bunch of other stuff too, but it’s probably not worth listing here)
+(I've poked at a bunch of other stuff too, but it's probably not worth listing here)
+
+
+Most up-to-date resume can be found at [https://resume.theletterd.co.uk](https://resume.theletterd.co.uk)
