@@ -17,7 +17,7 @@ html_structure = f"""
   </head>
   <body>
     {resume_html}
-    <div class="pdf-link">Also available as a <a href="./resume.pdf">pdf</a></div>
+    <div class="pdf-link">Also available as a <a href="./resume.pdf">pdf</a> and in <a href="./resume.txt">plaintext</a> (which is really <a href="./resume.md">Markdown</a>)</div>
   </body>
 </html>
 """

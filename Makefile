@@ -27,6 +27,8 @@ build_resume:
 	mkdir web_content
 	cp index.html web_content
 	cp resume.pdf web_content
+	cp resume.md web_content
+	cp resume.md web_content/resume.txt
 	cp -r ./assets web_content
 	rsync -vr web_content/ ${RESUME_SERVER}:~/webapps/resume
 
