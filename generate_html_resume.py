@@ -6,7 +6,7 @@ OUTPUT_HTML = "index.html"
 with open(RESUME_MD) as f:
     resume_md_str = "".join(f.readlines())
 
-resume_html = markdown.markdown(resume_md_str)
+resume_html = markdown.markdown(resume_md_str.encode('ascii', 'xmlcharrefreplace').decode())
 
 
 html_structure = f"""
