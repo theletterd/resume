@@ -56,7 +56,7 @@
 -   Converted single-threading email rendering job into a distributed job, allowing us to scale our email distribution lists without delaying the send time.
 -   Wrote and maintained Map Reduce jobs which calculated email click/open rates.
 -   Writer/maintainer of miscellaneous tools on the admin site.
--   Wrote a generic batch-emailing system (Unimaginatively named “MassEmail”) to replace numerous other systems doing mostly-identical things.
+-   Wrote a generic batch-emailing system (Unimaginatively named "MassEmail") to replace numerous other systems doing mostly-identical things.
     
 
   
