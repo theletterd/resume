@@ -14,7 +14,7 @@
 
 ### Engineering Manager, Yelp Waitlist (Dec 2018 - Present)
 
-- Managed a distributed team of of 10-13 engineers, across 3 timezones and 4 locations.
+- Managed a distributed team of of 9-13 engineers, across 3 timezones and 4 locations.
 - The team focused on improving wait-time estimates for diners, adding functionality to the iOS Host app used by restaurants to manage their waitlist, and building functionality for, and supporting, the user-facing teams in the wider Restaurants org.
 - Drove long-running architectural projects to clean up and retire crufty systems, and migrate other systems to more company-standard tech.
 
@@ -121,7 +121,7 @@
 
 ## Other
 
--   Originally from the UK, but my accent has changed slightly from living in the US for 11 years. I'm told I sound slightly Australian.
+-   Originally from the UK, but my accent has changed slightly from living in the US for 12 years. I'm told I sound slightly Australian.
 -   Owner of at least 20 pairs of Converse, but am unashamedly transitioning to Birkenstocks.
 -   Occasional blogger on gender-nonconforming issues, and occasionally [presents as female](https://resume.theletterd.co.uk/assets/images/presenting_as_female.jpg).
 -   Attempting to be somewhat-successful at being a runner.
