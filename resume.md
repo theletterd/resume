@@ -14,7 +14,7 @@
 
 ### Engineering Manager, Yelp Waitlist (Dec 2018 - Present)
 
-- Managed a distributed team of of 9-13 engineers, across 3 timezones and 4 locations.
+- Managed a distributed team of of 9-15 engineers, across 5 timezones and 7 locations.
 - The team focused on improving wait-time estimates for diners, adding functionality to the iOS Host app used by restaurants to manage their waitlist, and building functionality for, and supporting, the user-facing teams in the wider Restaurants org.
 - Drove long-running architectural projects to clean up and retire crufty systems, and migrate other systems to more company-standard tech.
 
