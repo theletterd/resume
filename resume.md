@@ -16,7 +16,7 @@
 -   Managed a fully distributed, cross-platform team of 13-15 engineers across a 10-hour time difference.
 -   The team was responsible for supporting the foundational monoliths of the Restaurants org, as well as feature development.
 -   I took point on coordinating a critical product initiative of 18 high-priority features with a hard deadline.
-    -   Given the importance of this initiative and the timeline involved, I put together a proposal that pulled in 3 other teams, totalling 26 engineers overall.
+    -   Given the importance of this initiative and the timeline involved, I put together an execution plan that pulled in 3 other teams, totalling 26 engineers overall.
     -   This was particularly challenging, given a lack of institutional knowledge of legacy systems on the engineering side, and a lack of deep, nuanced understanding on the product side.
     -   Working closely with PMs, designers and engineering, I advocated for ruthless prioritisation of features, cutting anything that wasn't a p0 requirement.
     -   Completed mostly on time, with a long-tail of followups. I'm pretty proud of everything we accomplished here, given all the difficulties we faced.
