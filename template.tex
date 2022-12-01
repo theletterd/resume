@@ -1,15 +1,15 @@
 % Copyright 2013 Christophe-Marie Duquesne <chmd@chmd.fr>
 % Copyright 2014 Mark Szepieniec <http://github.com/mszep>
-% 
+%
 % ConText style for making a resume with pandoc. Inspired by moderncv.
-% 
+%
 % This CSS document is delivered to you under the CC BY-SA 3.0 License.
 % https://creativecommons.org/licenses/by-sa/3.0/deed.en_US
 %
 % ...and then in 2018, Duncan Cook modified it clumsily.
 
 \startmode[*mkii]
-  \enableregime[utf-8]  
+  \enableregime[utf-8]
   \setupcolors[state=start]
 \stopmode
 $if(mainlang)$
@@ -31,83 +31,22 @@ $endif$
                  topspace=10mm, bottomspace=10mm,
                  header=0mm, footer=0mm]
 
-%\setuppagenumbering[location={footer,center}]
 
-\setupbodyfont[10pt, helvetica]
+\setupbodyfont[8pt, helvetica]
 
 \setupwhitespace[small]
 
 \setupblackrules[width=31mm, color=rulecolor]
 
-\setuphead[chapter]      [style=\tfd, before={\nowhitespace}, after={\nowhitespace}]
+\setuphead[chapter]      [style=\tfd\bf, color=titlecolor, after={\nowhitespace}, page=no]
 \setuphead[section]      [style=\tfd\bf, color=titlecolor, align=right, before={\blank[medium]}, after={\nowhitespace}]
 \setuphead[subsection]   [style=\tfc\bf, color=titlecolor, align=right, before={\blank[medium]}, after={\nowhitespace}]
-\setuphead[subsubsection][style=\bf, color=titlecolor, align=right, before={\blank[medium]}, after={\nowhitespace}]
+\setuphead[subsubsection][style=\tfa\bf, color=titlecolor, align=right, before={\blank[medium]}, after={\nowhitespace}]
 
-$if(number-sections)$
-$else$
 \setuphead[chapter, section, subsection, subsubsection][number=no]
-$endif$
-
-%\setupdescriptions[width=10mm]
-
-\definedescription
-  [description]
-  [headstyle=bold, style=normal,
-   location=hanging, width=18mm, distance=14mm, margin=0cm, after={\nowhitespace}]
-
-\setupitemize[autointro, packed]    % prevent orphan list intro
-\setupitemize[indentnext=no]
-
-\setupfloat[figure][default={here,nonumber}]
-\setupfloat[table][default={here,nonumber}]
-
-\setuptables[textwidth=max, HL=none]
-\setupxtable[frame=off,option={stretch,width}]
-
-\setupthinrules[width=15em] % width of horizontal rules
-
-\setupdelimitedtext
-  [blockquote]
-  [before={\setupalign[middle]},
-   indentnext=no,
-  ]
-
-$if(toc)$
-\setupcombinedlist[content][list={$placelist$}]
-
-$endif$
-$for(header-includes)$
-$header-includes$
-$endfor$
 
 \starttext
 \startcolor[bodycolor]
-$if(title)$
-\startalignment[left]
-  \blank[1*big]
-  {\tfd $title$}
-$if(author)$
-  \blank[2*medium]
-  {\tfa $for(author)$$author$$sep$\crlf $endfor$}
-$endif$
-$if(date)$
-  \blank[2*medium]
-  {\tfa $date$}
-$endif$
-  \blank[2*medium]
-\stopalignment
-$endif$
-$for(include-before)$
-$include-before$
-$endfor$
-$if(toc)$
-\placecontent
-$endif$
-
+\page[disable]
 $body$
-
-$for(include-after)$
-$include-after$
-$endfor$
 \stoptext

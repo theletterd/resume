@@ -10,11 +10,11 @@ I wanted to keep my resume in a git repo for easy updating.
 
 ## Pre-conditions
 $ sudo apt-get install pandoc context
- 
+
 ## Usage
 $ make initialise_environment
 
-$ RESUME_SERVER=theletterd@place-where-I-host-shit make build_resume
+$ RESUME_SERVER=theletterd@place-where-I-host-shit REMOTE_FOLDER="~/webapps/resume" make build_resume
 
 ## Resume
 Resume is available at [https://resume.theletterd.co.uk](https://resume.theletterd.co.uk) - I'm not looking though :) <3
