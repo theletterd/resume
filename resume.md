@@ -12,11 +12,24 @@
 
 ## Yelp (Dec 2009 to Present)
 
-### Engineering Manager, Yelp Waitlist (Dec 2018 - Present)
+### Engineering Manager, Reservation Management (Jun 2020 - Present)
+-   Managed a fully distributed, cross-platform team of 13-15 engineers across a 10-hour time difference.
+-   The team was responsible for supporting the foundational monoliths of the Restaurants org, as well as feature development.
+-   I took point on coordinating a critical product initiative of 18 high-priority features with a hard deadline.
+    -   Given the importance of this initiative and the timeline involved, I put together a proposal that pulled in 3 other teams, totalling 26 engineers overall.
+    -   This was particularly challenging, given a lack of institutional knowledge of legacy systems on the engineering side, and a lack of deep, nuanced understanding on the product side.
+    -   Working closely with PMs, designers and engineering, I advocated for ruthless prioritisation of features, cutting anything that wasn't a p0 requirement.
+    -   Completed mostly on time, with a long-tail of followups. I'm pretty proud of everything we accomplished here, given all the difficulties we faced.
+    -   Ask me about what I'd do differently, I dare you.
+-   All the other typical manager-stuff too.
 
-- Managed a distributed team of of 9-15 engineers, across 5 timezones and 7 locations.
-- The team focused on improving wait-time estimates for diners, adding functionality to the iOS Host app used by restaurants to manage their waitlist, and building functionality for, and supporting, the user-facing teams in the wider Restaurants org.
-- Drove long-running architectural projects to clean up and retire crufty systems, and migrate other systems to more company-standard tech.
+
+### Engineering Manager, Yelp Waitlist (Dec 2018 - June 2020)
+
+-   Managed a distributed team of of 9-15 engineers, across 5 timezones and 7 locations.
+-   The team focused on improving wait-time estimates for diners, adding functionality to the iOS Host app used by restaurants to manage their waitlist, and building functionality for, and supporting, the user-facing teams in the wider Restaurants org.
+-   Drove long-running architectural projects to clean up and retire crufty systems, and migrate other systems to more company-standard tech.
+
 
 ### Engineering Manager, Food Order Discovery (July 2017 - Dec 2018)
 
@@ -107,6 +120,7 @@
     -   Grew from ~30 participants in 2011, to ~130 in 2019.
     -   Initial allocation algorithm was just randomness, which wasn't optimal.
     -   Further refinements of the algorithm included me gathering more info from participants through a Google Survey, and then doing very manual matching based on that information, and what I knew personally about participants.
+    -   ...And then transitioning to an international version through the pandemic and beyond.
 -   Organised team-offsites, including Archery, Croquet, and Woodworking.
 -   Won trophies at four Yelp Hackathons:
     -   Analysis of User Operations flows to enable higher [throughput](https://resume.theletterd.co.uk/assets/images/first_hackathon.jpg).
@@ -121,8 +135,8 @@
 
 ## Other
 
--   Originally from the UK, but my accent has changed slightly from living in the US for 12 years. I'm told I sound slightly Australian.
--   Owner of at least 20 pairs of Converse, but am unashamedly transitioning to Birkenstocks.
+-   Originally from the UK, but my accent has changed slightly from living in the US for 15 years. I'm told I sound slightly Australian.
+-   Owner of 14 pairs of Birkenstocks, having transitioned from living a life in Converse for many years.
 -   Occasional blogger on gender-nonconforming issues, and occasionally [presents as female](https://resume.theletterd.co.uk/assets/images/presenting_as_female.jpg).
 -   Attempting to be somewhat-successful at being a runner.
 -   Finds writing resumes a challenge.

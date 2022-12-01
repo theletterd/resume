@@ -30,6 +30,4 @@ build_resume:
 	cp resume.md web_content
 	cp resume.md web_content/resume.txt
 	cp -r ./assets web_content
-	rsync -vr web_content/ ${RESUME_SERVER}:~/webapps/resume
-
-
+	rsync -vr web_content/ ${RESUME_SERVER}:${REMOTE_FOLDER}
